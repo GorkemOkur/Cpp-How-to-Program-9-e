@@ -1,6 +1,6 @@
-**(Chapter 2)** Introduction to C++ Programming; Input/Output and Operators
+**Chapter 2 : ** Introduction to C++ Programming; Input/Output and Operators
 
->###### What’s in a name? that which we call a rose By any other name would smell as sweet.
+>###### **What’s in a name? that which we call a rose By any other name would smell as sweet.**
 >####  —William Shakespeare.
 
 
