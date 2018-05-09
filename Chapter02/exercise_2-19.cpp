@@ -41,11 +41,11 @@ for(int i=0;i<3;++i){
 	}
 }
 
-cout<<"Sum is : "		<<arr[0]+arr[1]+arr[2];
-cout<<"\nAverage is : "		<<(arr[0]+arr[1]+arr[2])/3;
-cout<<"\nProduct is  : "	<<arr[0]*arr[1]*arr[2];
-cout<<"\nSmallest is : "	<<arr[0];
-cout<<"\nLargest is : "		<<arr[2];
+cout<<"Sum is : "<<arr[0]+arr[1]+arr[2];
+cout<<"\nAverage is : "<<(arr[0]+arr[1]+arr[2])/3;
+cout<<"\nProduct is  : "<<arr[0]*arr[1]*arr[2];
+cout<<"\nSmallest is : "<<arr[0];
+cout<<"\nLargest is : "<<arr[2];
 
 return 0;
 }
