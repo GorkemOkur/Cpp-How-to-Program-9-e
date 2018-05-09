@@ -26,8 +26,6 @@ using namespace std;
 
 int main(){
 
-cout<<"---This program ask two number from the Users and returned this two numbers \nsum, \nproduct, \ndifference, \nand quotient---\n";
-
 int a,b;
 
 cout<<"Enter first number : ";
