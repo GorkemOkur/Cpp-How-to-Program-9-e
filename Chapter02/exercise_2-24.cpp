@@ -6,7 +6,7 @@
  *    Description: 2.24 (Odd or Even) Write a program that reads an integer and determines and prints whether it’s odd or even
  *
  *        Version:  1.0
- *        Created:  09/05/18 00:55:00
+ *        Created:  10/05/18 00:55:00
  *       Revision:  none
  *       Compiler:  g++
  *
