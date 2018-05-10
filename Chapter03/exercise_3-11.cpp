@@ -22,7 +22,6 @@
  *   Nothing can have value without being an object of utility.
  *   —Karl Marx
  * =====================================================================================
- *
  */
 #include<iostream>
 #include <string>
