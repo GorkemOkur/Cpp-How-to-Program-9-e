@@ -29,16 +29,13 @@ using namespace std;
 
 class Account{
 public:
-
 	explicit Account(double);
 	void credit(double);
 	void debit(double);// or can be bool
 	double getBalance();
-
 private:
 	double balance;
 };
-
 	Account::Account(double balance):balance(balance){}
 
 	void Account::credit(double money){
@@ -59,7 +56,6 @@ private:
 
 
 int main(){
-
 	Account ac1(502.5);
 
 	try{
