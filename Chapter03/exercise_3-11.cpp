@@ -69,7 +69,7 @@ int main(){
 	GradeBook gradeBook2( "CS102 Data Structures in C++" , "Gorkem Okur");
 
 	gradeBook1.displayMessage();
-	cout<<"-----------------------------------------------------\n";
+	cout<<"--------------------********************--------------------\n";
 	gradeBook2.displayMessage();
 
 return 0;
