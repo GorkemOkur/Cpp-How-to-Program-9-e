@@ -4,10 +4,10 @@
  *       Filename:  exercise_3-12.cpp
  *
  *     Description: 3.12 (Account Class)  Create an Account class.
- *						  		-- The constructor should validate the initial balance to ensure that it’s greater than or equal to 0
- *						  		-- credit should add an amount to the current balance
- *						 		-- debit should withdraw money "Debit amount exceeded account balance."
- *						 		-- getBalance should return the current balance
+ *			  -- The constructor should validate the initial balance to ensure that it’s greater than or equal to 0
+ *			  -- credit should add an amount to the current balance
+ *			  -- debit should withdraw money "Debit amount exceeded account balance."
+ *			  -- getBalance should return the current balance
  *	
  *
  *        Version:  1.0
