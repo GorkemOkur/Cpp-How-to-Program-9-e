@@ -21,7 +21,6 @@
  *   Nothing can have value without being an object of utility.
  *   —Karl Marx
  * =====================================================================================
- *
  */
 #include<iostream>
 #include<stdexcept>
@@ -52,7 +51,7 @@ private:
 		if(balance > money){
 			balance-=money;
 		}else{
-			throw invalid_argument("Debit amount exceeded account balance. Amount : " + to_string(money));
+			throw invalid_argument("Debit amount exceeded account balance.\nAmount : " + to_string(money));
 		}
 	}
 
