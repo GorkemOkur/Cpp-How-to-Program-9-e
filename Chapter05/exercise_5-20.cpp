@@ -3,7 +3,7 @@
  *
  *       Filename:  exercise_5-20.cpp
  *
- *     Description: 5.20 (Number Systems Table)
+ *     Description: 5.20 (Pythagorean Triples)
  *								  
  *
  *        Version:  1.0
