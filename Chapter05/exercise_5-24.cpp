@@ -33,7 +33,6 @@ int main(){
 
 	for (int i =0; i <= row; ++i)
 	{
-
 		if(i == row/2)
 		{
 			for(int j=0;j<row;++j)
