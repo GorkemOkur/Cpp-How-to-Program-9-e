@@ -3,7 +3,7 @@
  *
  *       Filename:  exercise_7-14.cpp
  *
- *     Description: 7.14 (Duplicate Elimination with array)
+ *     Description: 7.14 (Duplicate Elimination with vector)
  *								  
  *
  *        Version:  1.0
