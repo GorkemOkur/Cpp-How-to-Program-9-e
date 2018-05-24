@@ -29,8 +29,7 @@ using namespace std;
 int main(){
 
 	default_random_engine engine(static_cast<unsigned int>(time(0)));
-	uniform_int_distribution<unsigned int> randomInt(1,6);
-
+	uniform_int_distribution<unsigned int> randomInt(1,6)
 	array<int, 11> arr{};
 
 	for(int i=0; i<36 ;++i){
@@ -46,7 +45,7 @@ int main(){
 
 	cout<<setw(3)<<"dic";
 	for(int i=1;i<=6;++i)cout<<setw(3)<<i;
-    cout<<endl;
+    	cout<<endl;
     
 	for(int i=1; i<=6 ;++i){
 		cout<<setw(3)<<i;
