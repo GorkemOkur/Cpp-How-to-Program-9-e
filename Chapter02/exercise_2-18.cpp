@@ -14,7 +14,7 @@
  *         Author:  Şükrü Görkem Okur - gorkemokur@gmail.com
  *   Organization:  -
  *
- *   One person can make adifference and every personshouldtry.
+ *   One person can make a difference and every person should try.
  *	 —John F. Kennedy
  * =====================================================================================
  *
